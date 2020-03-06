@@ -1,0 +1,2 @@
+adidas=org.apache.dubbo.demo.spi.impl.Adidas
+nike=org.apache.dubbo.demo.spi.impl.Nike

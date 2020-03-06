@@ -1,0 +1,2 @@
+cr7=org.apache.dubbo.demo.spi.impl.CR7
+messi=org.apache.dubbo.demo.spi.impl.Messi
